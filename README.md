@@ -5,7 +5,7 @@ A replica of PCA-AE built on a modified DeZero
 PCA-AE is one of autoencoders which decomposes input data like principal component analysis (PCA), but in a non-linear way. Through the model, we can figure out the meaning of each component of the latent space of given data in statistically independent manner and manipulate the latent space intuitively. For more details, refer to the original authors' paper [1] and github code [2].
 
 ## DeZero
-DeZero is one of framework for python developed by Saitou Koki. It was introduced in volume 3 of 'Deep learning from scratch'. You can find the official version of DeZero in this page [3]. I modified some classes and functions to reproduce the AE model. 
+DeZero is one of framework for python developed by Saitou Koki. It was introduced in the 3rd volume of 'Deep learning from scratch'. You can find the official version of DeZero in this page [3]. I modified some classes and functions to reproduce the AE model. 
   
   In my memory, I edited
   
